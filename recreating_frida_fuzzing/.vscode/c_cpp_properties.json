@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "name": "Jni",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${JAVA_HOME}/include",
+                "${JAVA_HOME}/include/linux"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu23",
+            "cppStandard": "c++23",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
